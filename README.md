@@ -1,2 +1,1 @@
-# pupupu
-ppuupupupu upupupu pupupupupupu pupupupupu
+# Тут будем изучать всякое
