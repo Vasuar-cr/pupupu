@@ -1,2 +1,4 @@
-a=1
-print('hello world')
+#переворачиваем строки
+a=input()
+b=a[::-1]
+print(b)
